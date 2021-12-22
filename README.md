@@ -1,2 +1,2 @@
-# AlgerianFlag-Animation
-Created with CodeSandbox
+# Algeria Flag Animation
+This code was Created with react on CodeSandbox.
