@@ -1,16 +1,14 @@
 # Algeria Flag Animation
 This code was Created with react on CodeSandbox.
 
-Animation preview: 
-https://i0txu.csb.app/
+[Animation preview](https://i0txu.csb.app/)
 
-CodeSandBox: 
-https://codesandbox.io/s/github/BaicheRamy/AlgerianFlag-Animation
+[CodeSandBox](https://codesandbox.io/s/github/BaicheRamy/AlgerianFlag-Animation)
 
 
 ## Add this animation to your code
 
-_To add this animation to your code, you just have to add the Lottie Animation dependencies, here is two examples on how you add it to your HTML or React project._
+_To add this animation to your code, you just have to add the Lottie Animation dependency, here is two examples on how you can add it to your HTML or React project._
 
    #### For HTML 
 
